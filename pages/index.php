@@ -6,8 +6,8 @@
   <title>Empresas Mais Valiosas do Mundo</title>
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=fallback">
-  <link rel="stylesheet" href="../adminlte/plugins/fontawesome-free/css/all.min.css">
-  <link rel="stylesheet" href="../adminlte/dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="../adminlte/AdminLTE-3.2.0/plugins/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="../adminlte/AdminLTE-3.2.0/dist/css/adminlte.min.css">
   <link rel="stylesheet" href="../estilo/style.css">
 </head>
 
@@ -80,10 +80,10 @@
     displayFooter();
   ?>
 
-  <script src="../adminlte/plugins/jquery/jquery.min.js"></script>
-  <script src="../adminlte/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="../adminlte/plugins/chart.js/Chart.min.js"></script>
-  <script src="../adminlte/dist/js/adminlte.min.js"></script>
+  <script src="../adminlte/AdminLTE-3.2.0/plugins/jquery/jquery.min.js"></script>
+  <script src="../adminlte/AdminLTE-3.2.0/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../adminlte/AdminLTE-3.2.0/plugins/chart.js/Chart.min.js"></script>
+  <script src="../adminlte/AdminLTE-3.2.0/dist/js/adminlte.min.js"></script>
 
   <script>
     $(document).ready(function() {
