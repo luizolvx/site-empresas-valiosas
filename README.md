@@ -21,7 +21,7 @@ Este é um sistema web completo desenvolvido em PHP para gerenciamento e visuali
 
 ## Tecnologias Utilizadas
 
-- **Backend**: PHP 7+
+- **Backend**: PHP 
     
 - **Banco de Dados**: MySQL
     
